@@ -1,0 +1,14 @@
+{
+  "name": "chrispackage",
+  "version": "1.0.0",
+  "description": "Package sample for assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Christian Britez",
+  "license": "ISC"
+}
